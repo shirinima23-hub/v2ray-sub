@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-11-03 12:47:50",
+  "updated_utc": "2026-11-03 18:36:51",
   "candidates": 6000,
-  "tcp_alive": 2816,
-  "passed": 394,
+  "tcp_alive": 2864,
+  "passed": 379,
   "mobile_list": 150,
   "gemini_list": 60,
-  "seconds": 277
+  "seconds": 254
 }
